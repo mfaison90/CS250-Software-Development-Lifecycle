@@ -1,6 +1,6 @@
-# CS 250 Portfolio Item: Sprint Review and Retrospective (SNHU Travel)
+# CS 250 Portfolio Item: Sprint Review and Retrospective 
 
-**Artifact:** `CS_250_Sprint_Review_and_Retrospective.docx` (also included as PDF)
+**Artifact:** `CS_250_Sprint_Review_and_Retrospective.docx` 
 **Course:** CS 250: Software Development Lifecycle
 **Author:** Mack Faison
 
@@ -36,5 +36,4 @@ A good team member also protects the work and the people doing it. Christy, our 
 ## Contents
 
 - `CS_250_Sprint_Review_and_Retrospective.docx`: Sprint Review and Retrospective document
-- `CS_250_Sprint_Review_and_Retrospective.pdf`: PDF version of the same document
 - `README.md`: this file
